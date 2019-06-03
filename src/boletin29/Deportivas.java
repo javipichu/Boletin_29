@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author slorenzorodriguez
+ * @author  jalvarezotero
  */
 public class Deportivas extends Barco {
 

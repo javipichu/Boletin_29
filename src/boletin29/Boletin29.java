@@ -3,7 +3,7 @@ package boletin29;
 
 /**
  *
- * @author slorenzorodriguez
+ * @author jalvarezotero
  */
 public class Boletin29 {
 
