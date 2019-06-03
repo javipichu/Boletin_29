@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author raguiarperez
+ * @author slorenzorodriguez
  */
 public abstract class Barco {
     
